@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sriharshasunny/Leetcode/tree/master/0139-word-break) |
 | [0523-continuous-subarray-sum](https://github.com/sriharshasunny/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sriharshasunny/Leetcode/tree/master/0139-word-break) |
 | [0523-continuous-subarray-sum](https://github.com/sriharshasunny/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
@@ -17,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/sriharshasunny/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sriharshasunny/Leetcode/tree/master/0139-word-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sriharshasunny/Leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sriharshasunny/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sriharshasunny/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
